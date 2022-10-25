@@ -8,7 +8,10 @@
 <h4 align="center"> ✨ Change app theme with customized switch button. Use shared preferences to save user's last selection. 
  </h4>
 
-<!-- Medium URL here -->
+<h4 align="center">
+✨  You can create this project step by step with
+<a href="https://blog.appcircle.io/article/how-to-customize-the-switch-button-in-android"> Blog!</a>
+</h4></br>
 
 
 <p align="center">
