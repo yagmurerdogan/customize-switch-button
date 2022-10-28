@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         binding.switchButton.apply {
             isChecked = sharedPreferences.getBoolean(SWITCH_BUTTON_KEY, false)
             if (isChecked) {
-                //AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
+                AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
 
             } else {
                 AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
